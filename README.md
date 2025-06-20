@@ -8,7 +8,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/Ricardo597/-AI.git
-cd -AI
+git clone https://github.com/Ricardo597/-AI-.git
+cd -AI-
 pip install -r requirements.txt
  python pid_pso_heater.py
