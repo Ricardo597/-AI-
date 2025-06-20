@@ -11,4 +11,4 @@
 git clone https://github.com/Ricardo597/-AI.git
 cd -AI
 pip install -r requirements.txt
-python pid_pso_heater.py      # 或 python pid_pso_heater_cn.py
+ python pid_pso_heater.py
